@@ -16,9 +16,11 @@ body {
 }
 
 h1 {
-  color: #4b1535;
-  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-    sans-serif;
+  color: #070004;
+  font-family: "Luckiest Guy", cursive;
+ letter-spacing: 5px;
+ font-weight: 400;
+  font-style: normal;
   text-align: center;
 }
 #randomMichis {
@@ -52,10 +54,15 @@ h1 {
 
 button {
   margin-top: 30px;
-  background-color: #f3c8dc;
-  border: none;
-  border-radius: 10px;
-  color: aliceblue;
-  padding: 8px;
+  background-color: #ffffff;
+  border: 2px solid #110208;
+  border-radius: 5px ;
+  color: rgb(18, 19, 20);
+  font-size: 15px;
+  letter-spacing: 2px;
+  padding: 15px 25px;
   cursor: pointer;
+}
+button:hover {
+  background-color: #f7f7f7;
 }
