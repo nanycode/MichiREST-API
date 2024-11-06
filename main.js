@@ -1,5 +1,5 @@
 const API_URL_RANDOM =
-  "https://api.thecatapi.com/v1/images/search?limit=10&api_key=live_Q9I3rEs8jqpqvq3EWyaEX57qE4pNy7mYOi0n0xCZ9ZowzS9WGhcusFCVdyxc7Sz0";
+  "https://api.thecatapi.com/v1/images/search?limit=20&api_key=live_Q9I3rEs8jqpqvq3EWyaEX57qE4pNy7mYOi0n0xCZ9ZowzS9WGhcusFCVdyxc7Sz0";
 const API_URL_FAVORITES =
   "https://api.thecatapi.com/v1/images/favourites?limit=20&api_key=live_Q9I3rEs8jqpqvq3EWyaEX57qE4pNy7mYOi0n0xCZ9ZowzS9WGhcusFCVdyxc7Sz0";
 
